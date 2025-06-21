@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KAVINESH S</h1>
-<h3 align="center">A passionate and driven B.Tech student specializing in Artificial Intelligence and Machine Learning</h3>
+<h3 align="center"> </h3>
 
-- 🌱 I’m currently learning **React,Javascript**
+- 🌱 I’m currently learning **Javascript,React**
 
 - 📫 How to reach me **kavinesh252006@gmail.com**
 
