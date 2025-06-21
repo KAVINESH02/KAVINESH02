@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KAVINESH S</h1>
-<h3 align="center"> </h3>
+<h3 align="center"> 🚀 A passionate and driven B.Tech student specializing in Artificial Intelligence and Machine Learning, with a strong focus on building intelligent, scalable solutions. 💻 Currently learning full-stack development using React and Node.js. Backed by a solid foundation in data structures and algorithms for crafting efficient and reliable code. 🧠 Keen on integrating machine learning models with web technologies to address real-world challenges through innovation and practical design. 🤝 Always eager to learn, collaborate, and contribute to impactful technology-driven solutions.</h3>
 
 - 🌱 I’m currently learning **Javascript,React**
 
