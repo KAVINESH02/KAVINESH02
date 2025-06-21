@@ -28,12 +28,7 @@ I’m a passionate B.Tech student specializing in **Artificial Intelligence and 
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinesh02&show_icons=true&theme=tokyonight" alt="Kavinesh's GitHub stats"/>
-</p>
 
----
 
 ### 📫 Connect With Me
 <p align="left">
